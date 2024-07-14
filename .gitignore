@@ -1,0 +1,17 @@
+# Logs
+logs/
+
+# Composer
+vendor/
+composer.lock
+
+# OS-specific and IDE-specific files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.log
