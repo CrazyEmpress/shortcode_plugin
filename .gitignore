@@ -3,7 +3,6 @@ logs/
 
 # Composer
 vendor/
-composer.lock
 
 # OS-specific and IDE-specific files
 .DS_Store
